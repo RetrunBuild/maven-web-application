@@ -108,7 +108,7 @@
   </distributionManagement>
 	
 	<build>
-		<finalName>tesla</finalName>
+		<finalName>Retrunbuild-tesla</finalName>
 		
 		<plugins>
 			<plugin>
